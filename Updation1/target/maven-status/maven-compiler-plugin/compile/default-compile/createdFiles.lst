@@ -1,0 +1,7 @@
+com\Customer\Updation\models\CustomerUpdateDetail.class
+com\Customer\Updation\models\CustomerUpdateResponse.class
+com\Customer\Updation\repo\CustomerUpdateRepository.class
+com\Customer\Updation\service\CustomerUpdateService.class
+com\Customer\Updation\controller\CustomerUpdateController.class
+com\Customer\Updation\models\CustomerUpdateRequest.class
+com\Customer\Updation\Updation1Application.class
